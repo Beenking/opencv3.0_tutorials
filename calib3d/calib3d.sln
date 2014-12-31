@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "camera_calibration_with_square_chessboard", "camera_calibration_with_square_chessboard\camera_calibration_with_square_chessboard.vcxproj", "{6FCE2811-D305-457C-BB14-46E14557380C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "imagelist_creator", "imagelist_creator\imagelist_creator.vcxproj", "{E32F8B3A-17FD-4D37-BDA0-1B8DBEC3E177}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "calibration", "calibration\calibration.vcxproj", "{8DD8671C-C3E6-42BF-8015-4DCE79C5ABCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FCE2811-D305-457C-BB14-46E14557380C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6FCE2811-D305-457C-BB14-46E14557380C}.Debug|Win32.Build.0 = Debug|Win32
+		{6FCE2811-D305-457C-BB14-46E14557380C}.Release|Win32.ActiveCfg = Release|Win32
+		{6FCE2811-D305-457C-BB14-46E14557380C}.Release|Win32.Build.0 = Release|Win32
+		{E32F8B3A-17FD-4D37-BDA0-1B8DBEC3E177}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E32F8B3A-17FD-4D37-BDA0-1B8DBEC3E177}.Debug|Win32.Build.0 = Debug|Win32
+		{E32F8B3A-17FD-4D37-BDA0-1B8DBEC3E177}.Release|Win32.ActiveCfg = Release|Win32
+		{E32F8B3A-17FD-4D37-BDA0-1B8DBEC3E177}.Release|Win32.Build.0 = Release|Win32
+		{8DD8671C-C3E6-42BF-8015-4DCE79C5ABCD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8DD8671C-C3E6-42BF-8015-4DCE79C5ABCD}.Debug|Win32.Build.0 = Debug|Win32
+		{8DD8671C-C3E6-42BF-8015-4DCE79C5ABCD}.Release|Win32.ActiveCfg = Release|Win32
+		{8DD8671C-C3E6-42BF-8015-4DCE79C5ABCD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

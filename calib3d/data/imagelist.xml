@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<images>
+  "../data/chessboard/left01.jpg" "../data/chessboard/left02.jpg"
+  "../data/chessboard/left03.jpg" "../data/chessboard/left04.jpg"
+  "../data/chessboard/left05.jpg" "../data/chessboard/left06.jpg"
+  "../data/chessboard/left07.jpg" "../data/chessboard/left08.jpg"
+  "../data/chessboard/left09.jpg" "../data/chessboard/left11.jpg"
+  "../data/chessboard/left12.jpg" "../data/chessboard/left13.jpg"
+  "../data/chessboard/left14.jpg" "../data/chessboard/right01.jpg"
+  "../data/chessboard/right02.jpg" "../data/chessboard/right03.jpg"
+  "../data/chessboard/right04.jpg" "../data/chessboard/right05.jpg"
+  "../data/chessboard/right06.jpg" "../data/chessboard/right07.jpg"
+  "../data/chessboard/right08.jpg" "../data/chessboard/right09.jpg"
+  "../data/chessboard/right11.jpg" "../data/chessboard/right12.jpg"
+  "../data/chessboard/right13.jpg" "../data/chessboard/right14.jpg"</images>
+</opencv_storage>
