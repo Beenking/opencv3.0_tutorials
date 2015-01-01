@@ -16,5 +16,5 @@ int main(int argc, char** argv){
 	fs["distortion_coefficients"] >> distortion;
 
 	std::vector<Point3f> boardPoints;
-	solvePnP(Mat(boardPoints), Mat(foundBoardCorners), intrinsics, distortion, rvec, tvec, false);
+	solvePnP(Mat(boardPoints), Mat(imageCorners), intrinsics, distortion, rvec, tvec, false);
 }
