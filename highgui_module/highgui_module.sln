@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adding_a_Trackbar_to_our_applications", "Adding_a_Trackbar_to_our_applications\Adding_a_Trackbar_to_our_applications.vcxproj", "{34ECA4C3-C287-4079-955E-4D08FD68E82C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Video_Input_with_OpenCV_and_similarity_measurement", "Video_Input_with_OpenCV_and_similarity_measurement\Video_Input_with_OpenCV_and_similarity_measurement.vcxproj", "{07E9C2F1-DFC0-431C-AA41-8A0A4ED45910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34ECA4C3-C287-4079-955E-4D08FD68E82C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34ECA4C3-C287-4079-955E-4D08FD68E82C}.Debug|Win32.Build.0 = Debug|Win32
+		{34ECA4C3-C287-4079-955E-4D08FD68E82C}.Release|Win32.ActiveCfg = Release|Win32
+		{34ECA4C3-C287-4079-955E-4D08FD68E82C}.Release|Win32.Build.0 = Release|Win32
+		{07E9C2F1-DFC0-431C-AA41-8A0A4ED45910}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07E9C2F1-DFC0-431C-AA41-8A0A4ED45910}.Debug|Win32.Build.0 = Debug|Win32
+		{07E9C2F1-DFC0-431C-AA41-8A0A4ED45910}.Release|Win32.ActiveCfg = Release|Win32
+		{07E9C2F1-DFC0-431C-AA41-8A0A4ED45910}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

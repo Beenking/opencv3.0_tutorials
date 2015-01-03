@@ -5,6 +5,7 @@
 using namespace std;
 using namespace cv;
 
+/*
 int main(int argc, char** argv){
 	Mat img = imread(argv[1], cv::IMREAD_GRAYSCALE);
 
@@ -26,4 +27,13 @@ int main(int argc, char** argv){
 	Mat rvec, tvec;
 	solvePnP(Mat(boardPoints), Mat(imageCorners), intrinsics, distortion, rvec, tvec, false);
 	cout << rvec << endl << endl << tvec << endl <<endl;
+}*/
+
+int main(){
+	Mat m;
+	m.create(100,100,CV_8UC1);
+	imshow("DEMO", m);
+	int a = 0;
+	waitKey();
+	return  0;
 }
